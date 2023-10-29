@@ -123,6 +123,7 @@ input {
     margin-bottom: 46px;
     position: relative;
     z-index: 1;
+    color: #41a28e;
 }
 .header__title::before {
     content: "";
